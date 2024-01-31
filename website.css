@@ -4,6 +4,7 @@
     top: 0;
     right: 0;
     left: 0;
+    background-color: white;
 }
 
 .navigator {
@@ -693,7 +694,7 @@ body {
 .seventh21 {
     border: 1px solid black;
     background-color: #080a3d;
-    ;
+    color:white;
     border-radius: 8px;
     justify-content: center;
     transition: 0.7s;
